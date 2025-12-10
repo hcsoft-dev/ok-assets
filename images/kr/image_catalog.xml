@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageCatalog>
+  <!-- Bet Button Images -->
+  <Image key="bet_button_allin_off" 	path="bet_button/allin_off" />
+  <Image key="bet_button_allin_on" 		path="bet_button/allin_on" />
+  <Image key="bet_button_allin_down" 	path="bet_button/allin_down" />
+  <Image key="bet_button_allin_ov" 		path="bet_button/allin_ov" />  
+  <Image key="bet_button_fold_off" 		path="bet_button/fold_off" />
+  <Image key="bet_button_fold_on" 		path="bet_button/fold_on" />
+  <Image key="bet_button_fold_down" 	path="bet_button/fold_down" />
+  <Image key="bet_button_fold_ov" 		path="bet_button/fold_ov" />
+  <Image key="bet_button_call_off" 		path="bet_button/call_off" />
+  <Image key="bet_button_call_on" 		path="bet_button/call_on" />
+  <Image key="bet_button_call_down" 	path="bet_button/call_down" />
+  <Image key="bet_button_call_ov" 		path="bet_button/call_ov" />
+  <Image key="bet_button_raise_off" 	path="bet_button/raise_off" />
+  <Image key="bet_button_raise_on" 		path="bet_button/raise_on" />
+  <Image key="bet_button_raise_down" 	path="bet_button/raise_down" />
+  <Image key="bet_button_raise_ov" 		path="bet_button/raise_ov" />
+
+  <!-- Currency Icons -->
+  <Image key="currency_chip" path="currency/icon_chip" />
+  <Image key="currency_coin" path="currency/icon_n_coin" />
+  <Image key="currency_user_chip" path="currency/user_t_chip" />
+</ImageCatalog>

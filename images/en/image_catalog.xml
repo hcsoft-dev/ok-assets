@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageCatalog>
+  <!-- Default -->
+  <Image key="EMPTY" 					path="empty" />
+  
+  <!-- Bet Button Images -->
+  <Image key="BET_BUTTON_ALLIN_OFF" 	path="bet_button/allin_off" />
+  <Image key="BET_BUTTON_ALLIN_ON" 		path="bet_button/allin_on" />
+  <Image key="BET_BUTTON_ALLIN_DOWN" 	path="bet_button/allin_down" />
+  <Image key="BET_BUTTON_ALLIN_OVER" 	path="bet_button/allin_ov" />
+  <Image key="BET_BUTTON_BBING_OFF" 	path="bet_button/bbing_off" />
+  <Image key="BET_BUTTON_BBING_ON" 		path="bet_button/bbing_on" />
+  <Image key="BET_BUTTON_BBING_DOWN" 	path="bet_button/bbing_down" />
+  <Image key="BET_BUTTON_BBING_OVER" 	path="bet_button/bbing_ov" />
+  <Image key="BET_BUTTON_BET_OFF" 		path="bet_button/bet_off" />
+  <Image key="BET_BUTTON_BET_ON" 		path="bet_button/bet_on" />
+  <Image key="BET_BUTTON_BET_DOWN" 		path="bet_button/bet_down" />
+  <Image key="BET_BUTTON_BET_OVER" 		path="bet_button/bet_ov" />
+  <Image key="BET_BUTTON_CALL_OFF" 		path="bet_button/call_off" />
+  <Image key="BET_BUTTON_CALL_ON" 		path="bet_button/call_on" />
+  <Image key="BET_BUTTON_CALL_DOWN" 	path="bet_button/call_down" />
+  <Image key="BET_BUTTON_CALL_OVER" 	path="bet_button/call_ov" />
+  <Image key="BET_BUTTON_CHANGE_OFF" 	path="bet_button/change_off" />
+  <Image key="BET_BUTTON_CHANGE_ON" 	path="bet_button/change_on" />
+  <Image key="BET_BUTTON_CHANGE_DOWN" 	path="bet_button/change_down" />
+  <Image key="BET_BUTTON_CHANGE_OVER" 	path="bet_button/change_ov" />
+  <Image key="BET_BUTTON_CHECK_OFF" 	path="bet_button/check_off" />
+  <Image key="BET_BUTTON_CHECK_ON" 		path="bet_button/check_on" />
+  <Image key="BET_BUTTON_CHECK_DOWN" 	path="bet_button/check_down" />
+  <Image key="BET_BUTTON_CHECK_OVER" 	path="bet_button/check_ov" />
+  <Image key="BET_BUTTON_DDADANG_OFF" 	path="bet_button/ddadang_off" />
+  <Image key="BET_BUTTON_DDADANG_ON" 	path="bet_button/ddadang_on" />
+  <Image key="BET_BUTTON_DDADANG_DOWN" 	path="bet_button/ddadang_down" />
+  <Image key="BET_BUTTON_DDADANG_OVER" 	path="bet_button/ddadang_ov" />
+  <Image key="BET_BUTTON_DIE_OFF" 		path="bet_button/die_off" />
+  <Image key="BET_BUTTON_DIE_ON" 		path="bet_button/die_on" />
+  <Image key="BET_BUTTON_DIE_DOWN"	 	path="bet_button/die_down" />
+  <Image key="BET_BUTTON_DIE_OVER"	 	path="bet_button/die_ov" />
+  <Image key="BET_BUTTON_FOLD_OFF" 		path="bet_button/fold_off" />
+  <Image key="BET_BUTTON_FOLD_ON" 		path="bet_button/fold_on" />
+  <Image key="BET_BUTTON_FOLD_DOWN"	 	path="bet_button/fold_down" />
+  <Image key="BET_BUTTON_FOLD_OVER"	 	path="bet_button/fold_ov" />
+  <Image key="BET_BUTTON_FULL_OFF" 		path="bet_button/full_off" />
+  <Image key="BET_BUTTON_FULL_ON" 		path="bet_button/full_on" />
+  <Image key="BET_BUTTON_FULL_DOWN"	 	path="bet_button/full_down" />
+  <Image key="BET_BUTTON_FULL_OVER"	 	path="bet_button/full_ov" />
+  <Image key="BET_BUTTON_HALF_OFF" 		path="bet_button/half_off" />
+  <Image key="BET_BUTTON_HALF_ON" 		path="bet_button/half_on" />
+  <Image key="BET_BUTTON_HALF_DOWN"	 	path="bet_button/half_down" />
+  <Image key="BET_BUTTON_HALF_OVER"	 	path="bet_button/half_ov" />
+  <Image key="BET_BUTTON_PASS_OFF" 		path="bet_button/pass_off" />
+  <Image key="BET_BUTTON_PASS_ON" 		path="bet_button/pass_on" />
+  <Image key="BET_BUTTON_PASS_DOWN"	 	path="bet_button/pass_down" />
+  <Image key="BET_BUTTON_PASS_OVER"	 	path="bet_button/pass_ov" />
+  <Image key="BET_BUTTON_QUARTER_OFF" 	path="bet_button/quarter_off" />
+  <Image key="BET_BUTTON_QUARTER_ON" 	path="bet_button/quarter_on" />
+  <Image key="BET_BUTTON_QUARTER_DOWN"	path="bet_button/quarter_down" />
+  <Image key="BET_BUTTON_QUARTER_OVER"	path="bet_button/quarter_ov" />
+  <Image key="BET_BUTTON_QUARTER_OFF" 	path="bet_button/quarter_off" />
+  <Image key="BET_BUTTON_QUARTER_ON" 	path="bet_button/quarter_on" />
+  <Image key="BET_BUTTON_QUARTER_DOWN"	path="bet_button/quarter_down" />
+  <Image key="BET_BUTTON_QUARTER_OVER"	path="bet_button/quarter_ov" />
+  <Image key="BET_BUTTON_RAISE_OFF" 	path="bet_button/raise_off" />
+  <Image key="BET_BUTTON_RAISE_ON" 		path="bet_button/raise_on" />
+  <Image key="BET_BUTTON_RAISE_DOWN"	path="bet_button/raise_down" />
+  <Image key="BET_BUTTON_RAISE_OVER"	path="bet_button/raise_ov" />
+
+  <!-- Currency Icons -->
+  <Image key="CURRENCY_PAID" path="currency/icon_chip" />
+  <Image key="CURRENCY_FREE" path="currency/icon_n_coin" />
+  <Image key="CURRENCY_CHIP" path="currency/user_t_chip" />
+  
+  <!-- Bet Ticket -->
+  <Image key="BET_TICKET_ALLIN"		path="bet_ticket/allin" />
+  <Image key="BET_TICKET_BBING"		path="bet_ticket/bbing" />
+  <Image key="BET_TICKET_CALL"		path="bet_ticket/call" />
+  <Image key="BET_TICKET_CHECK"		path="bet_ticket/check" />
+  <Image key="BET_TICKET_DDADANG"	path="bet_ticket/ddadang" />
+  <Image key="BET_TICKET_DIE"		path="bet_ticket/die" />
+  <Image key="BET_TICKET_FOLD"		path="bet_ticket/fold" />
+  <Image key="BET_TICKET_HALF"		path="bet_ticket/half" />
+  <Image key="BET_TICKET_QUARTER"	path="bet_ticket/quarter" />
+  <Image key="BET_TICKET_RAISE"		path="bet_ticket/raise" />
+  
+  
+</ImageCatalog>
