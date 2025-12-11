@@ -20,10 +20,10 @@
   <Image key="BET_BUTTON_CALL_ON" 		path="bet_button/call_on" />
   <Image key="BET_BUTTON_CALL_DOWN" 	path="bet_button/call_down" />
   <Image key="BET_BUTTON_CALL_OVER" 	path="bet_button/call_ov" />
-  <Image key="BET_BUTTON_CHANGE_OFF" 	path="bet_button/change_off" />
-  <Image key="BET_BUTTON_CHANGE_ON" 	path="bet_button/change_on" />
-  <Image key="BET_BUTTON_CHANGE_DOWN" 	path="bet_button/change_down" />
-  <Image key="BET_BUTTON_CHANGE_OVER" 	path="bet_button/change_ov" />
+  <Image key="BET_BUTTON_CUT_OFF" 		path="bet_button/change_off" />
+  <Image key="BET_BUTTON_CUT_ON" 		path="bet_button/change_on" />
+  <Image key="BET_BUTTON_CUT_DOWN" 		path="bet_button/change_down" />
+  <Image key="BET_BUTTON_CUT_OVER" 		path="bet_button/change_ov" />
   <Image key="BET_BUTTON_CHECK_OFF" 	path="bet_button/check_off" />
   <Image key="BET_BUTTON_CHECK_ON" 		path="bet_button/check_on" />
   <Image key="BET_BUTTON_CHECK_DOWN" 	path="bet_button/check_down" />
@@ -52,10 +52,6 @@
   <Image key="BET_BUTTON_PASS_ON" 		path="bet_button/pass_on" />
   <Image key="BET_BUTTON_PASS_DOWN"	 	path="bet_button/pass_down" />
   <Image key="BET_BUTTON_PASS_OVER"	 	path="bet_button/pass_ov" />
-  <Image key="BET_BUTTON_QUARTER_OFF" 	path="bet_button/quarter_off" />
-  <Image key="BET_BUTTON_QUARTER_ON" 	path="bet_button/quarter_on" />
-  <Image key="BET_BUTTON_QUARTER_DOWN"	path="bet_button/quarter_down" />
-  <Image key="BET_BUTTON_QUARTER_OVER"	path="bet_button/quarter_ov" />
   <Image key="BET_BUTTON_QUARTER_OFF" 	path="bet_button/quarter_off" />
   <Image key="BET_BUTTON_QUARTER_ON" 	path="bet_button/quarter_on" />
   <Image key="BET_BUTTON_QUARTER_DOWN"	path="bet_button/quarter_down" />
@@ -116,5 +112,42 @@
   <!-- tournament -->
   <Image key="PLATE_SITTING_AWAY" 	path="tournament/tournament_img03"/>
   <Image key="PLATE_OFFLINE" 		path="tournament/tournament_img04"/>
+  
+  <!-- baccarat -->
+  <Image key="BACCARAT_BUTTON_PASS_OFF" 			path="baccarat/btn_pass_off"/>
+  <Image key="BACCARAT_BUTTON_PASS_ON" 				path="baccarat/btn_pass_on"/>
+  <Image key="BACCARAT_BUTTON_PASS_DOWN"			path="baccarat/btn_pass_down"/>
+  <Image key="BACCARAT_BUTTON_PASS_OVER"			path="baccarat/btn_pass_ov"/>
+  <Image key="BACCARAT_BUTTON_PREVIOUS_BET_OFF" 	path="baccarat/btn_rebet_off"/>
+  <Image key="BACCARAT_BUTTON_PREVIOUS_BET_ON" 		path="baccarat/btn_rebet_on"/>
+  <Image key="BACCARAT_BUTTON_PREVIOUS_BET_DOWN"	path="baccarat/btn_rebet_down"/>
+  <Image key="BACCARAT_BUTTON_PREVIOUS_BET_OVER"	path="baccarat/btn_rebet_ov"/>
+  <Image key="BACCARAT_BUTTON_RESET_OFF" 			path="baccarat/btn_reset_off"/>
+  <Image key="BACCARAT_BUTTON_RESET_ON" 			path="baccarat/btn_reset_on"/>
+  <Image key="BACCARAT_BUTTON_RESET_DOWN"			path="baccarat/btn_reset_down"/>
+  <Image key="BACCARAT_BUTTON_RESET_OVER"			path="baccarat/btn_reset_ov"/>
+  <Image key="BACCARAT_BUTTON_MULTIPLE_OFF" 		path="baccarat/btn_x2_off"/>
+  <Image key="BACCARAT_BUTTON_MULTIPLE_ON" 			path="baccarat/btn_x2_on"/>
+  <Image key="BACCARAT_BUTTON_MULTIPLE_DOWN"		path="baccarat/btn_x2_down"/>
+  <Image key="BACCARAT_BUTTON_MULTIPLE_OVER"		path="baccarat/btn_x2_ov"/>
+  <Image key="BACCARAT_BEAD_PANEL"					path="baccarat/top_score02"/>
+  <Image key="BACCARAT_BUTTON_BEAD_OFF"				path="baccarat/top_score02_off"/>
+  <Image key="BACCARAT_BUTTON_BEAD_ON"				path="baccarat/top_score02_on"/>
+  <Image key="BACCARAT_BUTTON_BEAD_DOWN"			path="baccarat/top_score02_down"/>
+  <Image key="BACCARAT_BUTTON_BEAD_OVER"			path="baccarat/top_score02_ov"/>
+  <Image key="BACCARAT_BIG_ROAD_PANEL"				path="baccarat/top_top_score03"/>
+  <Image key="BACCARAT_BUTTON_BIG_ROAD_OFF"			path="baccarat/top_top_score03_off"/>
+  <Image key="BACCARAT_BUTTON_BIG_ROAD_ON"			path="baccarat/top_top_score03_on"/>
+  <Image key="BACCARAT_BUTTON_BIG_ROAD_DOWN"		path="baccarat/top_top_score03_down"/>
+  <Image key="BACCARAT_BUTTON_BIG_ROAD_OVER"		path="baccarat/top_top_score03_ov"/>
+  <Image key="BACCARAT_BIG_EYE_BOY_PANEL"			path="baccarat/top_top_score06"/>
+  <Image key="BACCARAT_BUTTON_BIG_EYE_BOY_OFF"		path="baccarat/top_top_score04_off"/>
+  <Image key="BACCARAT_BUTTON_BIG_EYE_BOY_ON"		path="baccarat/top_top_score04_on"/>
+  <Image key="BACCARAT_BUTTON_BIG_EYE_BOY_DOWN"		path="baccarat/top_top_score04_down"/>
+  <Image key="BACCARAT_BUTTON_BIG_EYE_BOY_OVER"		path="baccarat/top_top_score04_ov"/>
+  
+  
+  <!-- blackjack -->
+  
   
 </ImageCatalog>
