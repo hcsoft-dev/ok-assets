@@ -148,6 +148,38 @@
   
   
   <!-- blackjack -->
+  <Image key="BLACKJACK_BUTTON_START_BET_OFF" 		path="blackjack/btn_bet_off"/>
+  <Image key="BLACKJACK_BUTTON_START_BET_ON" 		path="blackjack/btn_bet_on"/>
+  <Image key="BLACKJACK_BUTTON_START_BET_DOWN"		path="blackjack/btn_bet_down"/>
+  <Image key="BLACKJACK_BUTTON_START_BET_OVER"		path="blackjack/btn_bet_ov"/>
+  <Image key="BLACKJACK_BUTTON_DOUBLE_DOWN_OFF" 	path="blackjack/btn_dx2_off"/>
+  <Image key="BLACKJACK_BUTTON_DOUBLE_DOWN_ON" 		path="blackjack/btn_dx2_on"/>
+  <Image key="BLACKJACK_BUTTON_DOUBLE_DOWN_DOWN"	path="blackjack/btn_dx2_down"/>
+  <Image key="BLACKJACK_BUTTON_DOUBLE_DOWN_OVER"	path="blackjack/btn_dx2_ov"/>
+  <Image key="BLACKJACK_BUTTON_HIT_OFF" 			path="blackjack/btn_hit_off"/>
+  <Image key="BLACKJACK_BUTTON_HIT_ON" 				path="blackjack/btn_hit_on"/>
+  <Image key="BLACKJACK_BUTTON_HIT_DOWN"			path="blackjack/btn_hit_down"/>
+  <Image key="BLACKJACK_BUTTON_HIT_OVER"			path="blackjack/btn_hit_ov"/>
+  <Image key="BLACKJACK_BUTTON_PASS_OFF" 			path="blackjack/btn_pass_off"/>
+  <Image key="BLACKJACK_BUTTON_PASS_ON" 			path="blackjack/btn_pass_on"/>
+  <Image key="BLACKJACK_BUTTON_PASS_DOWN"			path="blackjack/btn_pass_down"/>
+  <Image key="BLACKJACK_BUTTON_PASS_OVER"			path="blackjack/btn_pass_ov"/>
+  <Image key="BLACKJACK_BUTTON_RESET_OFF" 			path="blackjack/btn_reset_off"/>
+  <Image key="BLACKJACK_BUTTON_RESET_ON" 			path="blackjack/btn_reset_on"/>
+  <Image key="BLACKJACK_BUTTON_RESET_DOWN"			path="blackjack/btn_reset_down"/>
+  <Image key="BLACKJACK_BUTTON_RESET_OVER"			path="blackjack/btn_reset_ov"/>
+  <Image key="BLACKJACK_BUTTON_SPLIT_OFF" 			path="blackjack/btn_split_off"/>
+  <Image key="BLACKJACK_BUTTON_SPLIT_ON" 			path="blackjack/btn_split_on"/>
+  <Image key="BLACKJACK_BUTTON_SPLIT_DOWN"			path="blackjack/btn_split_down"/>
+  <Image key="BLACKJACK_BUTTON_SPLIT_OVER"			path="blackjack/btn_split_ov"/>
+  <Image key="BLACKJACK_BUTTON_STAND_OFF" 			path="blackjack/btn_stand_off"/>
+  <Image key="BLACKJACK_BUTTON_STAND_ON" 			path="blackjack/btn_stand_on"/>
+  <Image key="BLACKJACK_BUTTON_STAND_DOWN"			path="blackjack/btn_stand_down"/>
+  <Image key="BLACKJACK_BUTTON_STAND_OVER"			path="blackjack/btn_stand_ov"/>
+  <Image key="BLACKJACK_BUBBLE_DOUBLE_DOWN" 		path="blackjack/dx2"/>
+  <Image key="BLACKJACK_BUBBLE_HIT" 				path="blackjack/hit"/>
+  <Image key="BLACKJACK_BUBBLE_SPLIT" 				path="blackjack/split"/>
+  <Image key="BLACKJACK_BUBBLE_STAND" 				path="blackjack/stand"/>
   
   
 </ImageCatalog>
