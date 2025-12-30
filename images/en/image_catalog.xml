@@ -90,8 +90,6 @@
   <Image key="GAMETIME_PANEL_EVENING" 		path="gametime/vb_t_06_e" x="0" y="345" width="263" height="168" />
   
   <!-- room -->
-  <Image key="ROOM_EXIT_SOON_0" 	path="room/exit_reservation" />
-  <Image key="ROOM_CHANGE_SOON_0" 	path="room/movement_reservation" />
   <Image key="ROOM_EXIT_SOON_1" 	path="room/icon_game_roomLS" />
   <Image key="ROOM_CHANGE_SOON_1" 	path="room/icon_game_roomMS" />
   
