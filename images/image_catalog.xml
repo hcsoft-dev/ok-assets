@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ImageCatalog>
   <SceneManifest>
-    <Scene key="LOBBY"                categories="COMMON" />
-    <Scene key="INGAME_HOLDEM"        categories="COMMON,BET_BUTTON" />
-    <Scene key="INGAME_OMAHA"         categories="COMMON,BET_BUTTON" />
-    <Scene key="INGAME_TEXAS_BADUGI"  categories="COMMON,BET_BUTTON,GAMETIME" />
-    <Scene key="INGAME_HDORI"         categories="COMMON,BET_BUTTON" />
-    <Scene key="INGAME_BADUGI"        categories="COMMON,BET_BUTTON,GAMETIME" />
-    <Scene key="INGAME_POKER"         categories="COMMON,BET_BUTTON,BET_TICKET" />
-    <Scene key="INGAME_GOSTOP"        categories="COMMON" />
-    <Scene key="INGAME_SEOTDA"        categories="COMMON,BET_BUTTON,BET_BUBBLE" />
-    <Scene key="INGAME_BACCARAT"      categories="COMMON,BACCARAT" />
-    <Scene key="INGAME_BLACKJACK"     categories="COMMON,BLACKJACK" />
+    <Scene key="LOBBY"                  categories="COMMON" />
+    <Scene key="INGAME_HOLDEM"          categories="COMMON,BET_BUTTON" />
+    <Scene key="INGAME_OMAHA"           categories="COMMON,BET_BUTTON" />
+    <Scene key="INGAME_TEXAS_BADUGI"    categories="COMMON,BET_BUTTON,GAMETIME" />
+    <Scene key="INGAME_HDORI"           categories="COMMON,BET_BUTTON" />
+    <Scene key="INGAME_BADUGI"          categories="COMMON,BET_BUTTON,GAMETIME" />
+    <Scene key="INGAME_POKER"           categories="COMMON,BET_BUTTON,BET_TICKET" />
+    <Scene key="INGAME_GOSTOP"          categories="COMMON" />
+    <Scene key="INGAME_SEOTDA"          categories="COMMON,BET_BUTTON,BET_BUBBLE" />
+    <Scene key="INGAME_BACCARAT"        categories="COMMON,BACCARAT" />
+    <Scene key="INGAME_BLACKJACK"       categories="COMMON,BLACKJACK" />
   </SceneManifest>
 
   <!-- Default -->
